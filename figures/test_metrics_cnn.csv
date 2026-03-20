@@ -1,0 +1,2 @@
+model,test_loss,test_acc,test_f1
+Simple CNN,0.04022974771317095,0.9863,0.9862332991230749
