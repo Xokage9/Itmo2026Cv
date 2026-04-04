@@ -1,0 +1,13 @@
+{
+  "train": {
+    "split": "train",
+    "indexed": 33402,
+    "labels_written": 33402
+  },
+  "test": {
+    "split": "test",
+    "indexed": 13068,
+    "labels_written": 13068
+  },
+  "data_yaml": "c:\\Users\\wiad_\\PycharmProjects\\ItmoCv\\svhn_number.yaml"
+}
