@@ -1,0 +1,4 @@
+Модель,F1 Macro,Лучший F1,Эпохи,Предобучение
+ResNet50 (ImageNet),0.5251,0.5251,5,ImageNet
+ConvNeXt-Tiny (ImageNet-22K),0.6737,0.6737,10,ImageNet21K
+ScratchCNN-Lite (From Scratch),0.4371,0.4371,12,Нет
